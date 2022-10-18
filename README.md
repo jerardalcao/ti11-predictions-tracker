@@ -6,16 +6,16 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-18 15:49:00 PHT*
+*as of 2022-10-18 16:15:07 PHT*
 ## Heroes
 ### Most Picked
- - Marci : 69.0
+ - Marci : 70.0
 ### Most banned
- - Enigma : 108.0
+ - Enigma : 111.0
 ### Highest Winrate
  - Storm Spirit : 80.0
 ### Highest Average Kills
- - Bloodseeker : 11.71
+ - Sniper : 11.83
 ### Highest Average Assists
  - Earth Spirit : 20.17
 ### Lowest Average deaths
@@ -32,7 +32,7 @@ Currently in progress.
 ### Highest Average Kills
  - Pakazs : 9.71
 ### Highest Average Assists
- - Saksa : 17.18
+ - Saksa : 16.89
 ### Lowest Average Deaths
  - Nightfall 凛 : 1.83
 ### Highest Average Last Hits

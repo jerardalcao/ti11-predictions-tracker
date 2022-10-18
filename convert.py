@@ -22,3 +22,5 @@ def create_readme():
             readme += f"\n - {j['name']} : {round(j['value'],2)}"
     readme_file.write(readme)
     readme_file.close()
+
+create_readme()

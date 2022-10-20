@@ -27,11 +27,6 @@ def create_readme():
         for j in i['result']:
             hero_url = heroes[heroes['localized_name']==j['name']]['url'].to_string(index=False)
             readme += f"\n - <img src='{hero_url}.png' width='50'/> {j['name']} : {round(j['value'],2)}"
-    readme += f'\n## Players'
-    for i in player_list:
-        readme += f'\n\n**{i["title"]}**'
-        for j in i['result']:
-            readme += f"\n - {j['team_tag']}.{j['name']} : {round(j['value'],2)}"
     readme += f'\n## Teams'
     for i in team_list:
         readme += f'\n\n**{i["title"]}**'
@@ -42,6 +37,11 @@ def create_readme():
                 readme += f"\n - <img src='{team_url}.png' width='50'/> {j['name']} : {round(j['value'],2)}"
             except:
                 readme += f"\n - <img src='{team_url}.png' width='50'/> {j['name']} : {j['value']}"
+    readme += f'\n## Players'
+    for i in player_list:
+        readme += f'\n\n**{i["title"]}**'
+        for j in i['result']:
+            readme += f"\n - {j['team_tag']}.{j['name']} : {round(j['value'],2)}"
     readme += f'\n## Tournament'
     for i in tournament_list:
         readme += f'\n\n**{i["title"]}**'

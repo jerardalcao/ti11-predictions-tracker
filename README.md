@@ -6,7 +6,7 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-20 21:31:48 PHT*
+*as of 2022-10-20 22:12:08 PHT*
 ## Heroes
 
 **Most Picked**
@@ -77,7 +77,7 @@ Currently in progress.
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209166.png' width='50'/> Team Aster : 3
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 3
 
-**Least Deaths in a game**
+**Most assists in a game**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 160
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 157
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8131728.png' width='50'/> Hokori : 140

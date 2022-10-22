@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>TI11 Battle Pass Predictions Tracker</title>
+</head>
+<body>
+    <h1>TI11 Battle Pass Predictions Tracker</h1>
+<section id="heroes" class="heroes">
+    <h2>Heroes</h2>
+    <div class="hero" id="hero"></div>
+</section>
+<script>
+const heroes = document.getElementById('heroes');
+
+
+fetch('hero_list.json')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        appendData(data);
+    })
+    .catch(function (err) {
+        console.log('error: ' + err);
+    });
+function appendData(data) {
+    var mainContainer = document.getElementById("heroes");
+    for (var i = 0; i < data.length; i++) {
+        var div = document.createElement("div");
+        var ul = document.createElement("ul");
+        div.innerHTML = data[i]["title"] + data[i]["result"]
+        for (var j = 0; j < data[i].length; j++){
+            var li = document.createElement("li");
+            li.innerHTML = data[i][j]["name"] + ' : ' + data[i][j]["value"];
+            console.log(li);
+            console.log('ok');
+            ul.appendChild(li);
+        }
+        div.appendChild(ul)
+        mainContainer.appendChild(div);
+    }
+}
+</script>    
+</body>
+</html>

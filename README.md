@@ -6,7 +6,7 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-24 22:44:40 PHT*
+*as of 2022-10-24 22:50:01 PHT*
 ## Heroes
 
 **Most Picked**
@@ -61,51 +61,51 @@ Currently in progress.
 ## Teams
 
 **Most Kills in a game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png.png' width='50'/> Thunder Awaken : 66
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png.png' width='50'/> BetBoom Team : 57
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8599101.png.png' width='50'/> Gaimin Gladiators : 54
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 66
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 57
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8599101.png' width='50'/> Gaimin Gladiators : 54
 
 **Highest Average Kills**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png.png' width='50'/> Thunder Awaken : 31.56
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png.png' width='50'/> Team Liquid : 29.25
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png.png' width='50'/> Team Secret : 28.77
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 31.56
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png' width='50'/> Team Liquid : 29.25
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.77
 
 **Least Deaths in a game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png.png' width='50'/> Soniqs : 3
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8260983.png.png' width='50'/> TSM FTX : 3
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7119388.png.png' width='50'/> Team Spirit : 3
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209166.png.png' width='50'/> Team Aster : 3
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png.png' width='50'/> Team Secret : 3
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png' width='50'/> Soniqs : 3
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8260983.png' width='50'/> TSM FTX : 3
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7119388.png' width='50'/> Team Spirit : 3
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209166.png' width='50'/> Team Aster : 3
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 3
 
 **Most assists in a game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png.png' width='50'/> Thunder Awaken : 160
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png.png' width='50'/> BetBoom Team : 157
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8131728.png.png' width='50'/> Hokori : 140
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 160
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 157
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8131728.png' width='50'/> Hokori : 140
 
 **Wins the longest game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8605863.png.png' width='50'/> Entity : 107:02
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png.png' width='50'/> BetBoom Team : 74:33
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209804.png.png' width='50'/> Royal Never Give Up : 70:29
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8605863.png' width='50'/> Entity : 107:02
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 74:33
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209804.png' width='50'/> Royal Never Give Up : 70:29
 
 **Wins the shortest game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/39.png.png' width='50'/> Evil Geniuses : 17:51
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7119388.png.png' width='50'/> Team Spirit : 19:21
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png.png' width='50'/> Team Secret : 19:30
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/39.png' width='50'/> Evil Geniuses : 17:51
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7119388.png' width='50'/> Team Spirit : 19:21
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 19:30
 
 **Highest Length Average**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209804.png.png' width='50'/> Royal Never Give Up : 45:24
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png.png' width='50'/> BetBoom Team : 44:45
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/350190.png.png' width='50'/> Fnatic : 43:35
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209804.png' width='50'/> Royal Never Give Up : 45:24
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 44:45
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/350190.png' width='50'/> Fnatic : 43:35
 
 **Most Different Heroes**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/15.png.png' width='50'/> PSG.LGD : 63
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8254400.png.png' width='50'/> beastcoast : 57
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2586976.png.png' width='50'/> OG : 56
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/15.png' width='50'/> PSG.LGD : 63
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8254400.png' width='50'/> beastcoast : 57
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2586976.png' width='50'/> OG : 56
 
 **Fewest Different Heroes**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png.png' width='50'/> BetBoom Team : 37
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8605863.png.png' width='50'/> Entity : 37
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/350190.png.png' width='50'/> Fnatic : 38
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8721219.png' width='50'/> BetBoom Team : 37
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8605863.png' width='50'/> Entity : 37
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/350190.png' width='50'/> Fnatic : 38
 ## Players
 
 **Highest Average Kills**

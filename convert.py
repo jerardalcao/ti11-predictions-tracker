@@ -24,9 +24,9 @@ def create_readme():
         readme += f'\n\n**{i["title"]}**'
         for j in i['result']:
             try:
-                readme += f"\n - <img src='{j['url']}.png' width='50'/> {j['name']} : {round(j['value'],2)}"
+                readme += f"\n - <img src='{j['url']}' width='50'/> {j['name']} : {round(j['value'],2)}"
             except:
-                readme += f"\n - <img src='{j['url']}.png' width='50'/> {j['name']} : {j['value']}"
+                readme += f"\n - <img src='{j['url']}' width='50'/> {j['name']} : {j['value']}"
     readme += f'\n## Players'
     for i in player_list:
         readme += f'\n\n**{i["title"]}**'

@@ -11,37 +11,112 @@
     <h1>TI11 Battle Pass Predictions Tracker</h1>
 <section id="heroes" class="heroes">
     <h2>Heroes</h2>
-    <div class="hero" id="hero"></div>
+    <hr>
+    <div id="hero-list" class="hero-list"></div>
+
+</section>
+
+<section id="teams" class="teams">
+    <h2>Teams</h2>
+    <hr>
+    <div id="team-list" class="team-list"></div>
+
+</section>
+<section id="players" class="players">
+    <h2>Players</h2>
+    <hr>
+    <div id="player-list" class="player-list"></div>
+
+</section>
+<section id="tournament" class="tournament">
+    <h2>Tournament</h2>
+    <hr>
+    <div id="tournament-list" class="tournament-list"></div>
+
 </section>
 <script>
-const heroes = document.getElementById('heroes');
-
-
+const heroes = document.getElementById('hero-list');
+const teams = document.getElementById('team-list');
+const players = document.getElementById('player-list');
+const tournament = document.getElementById('tournament-list');
 fetch('hero_list.json')
     .then(function (response) {
         return response.json();
     })
     .then(function (data) {
-        appendData(data);
+        appendData(data,heroes);
     })
     .catch(function (err) {
         console.log('error: ' + err);
     });
-function appendData(data) {
-    var mainContainer = document.getElementById("heroes");
-    for (var i = 0; i < data.length; i++) {
-        var div = document.createElement("div");
-        var ul = document.createElement("ul");
-        div.innerHTML = data[i]["title"] + data[i]["result"]
-        for (var j = 0; j < data[i].length; j++){
-            var li = document.createElement("li");
-            li.innerHTML = data[i][j]["name"] + ' : ' + data[i][j]["value"];
-            console.log(li);
-            console.log('ok');
+
+fetch('team_list.json')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        appendData(data,teams);
+    })
+    .catch(function (err) {
+        console.log('error: ' + err);
+    });
+
+fetch('player_list.json')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        appendData(data,players);
+    })
+    .catch(function (err) {
+        console.log('error: ' + err);
+    });
+
+fetch('tournament_list.json')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        appendData(data,tournament);
+    })
+    .catch(function (err) {
+        console.log('error: ' + err);
+    });
+
+function appendData(data,header) {
+    for (let i = 0; i < data.length; i++) {
+        let div = document.createElement("div");
+        let h3 = document.createElement("h3");
+        let ul = document.createElement("ul");
+        h3.innerHTML = data[i]["title"]
+        if (header != tournament){
+        for (let j = 0; j < data[i]["result"].length; j++){
+            let li = document.createElement("li");
+            if (header == heroes || header == teams){
+            try {
+                li.innerHTML = "<img src="+ data[i]["result"][j]["url"]+" width='50px'>" + ' ' +data[i]["result"][j]["name"] + ' : ' + data[i]["result"][j]["value"].toFixed(2);
+            }
+            catch {
+                li.innerHTML = "<img src="+ data[i]["result"][j]["url"]+" width='50px'>" + ' ' +data[i]["result"][j]["name"] + ' : ' + data[i]["result"][j]["value"];
+            }
+        }
+            else if (header == players){
+                li.innerHTML =  data[i]["result"][j]["team_tag"] + '.' + data[i]["result"][j]["name"] + ' : ' + data[i]["result"][j]["value"].toFixed(2);
+            }
+            else if (header == tournment){
+                li.innerHTML =  data[i]["result"];
+            }
             ul.appendChild(li);
         }
-        div.appendChild(ul)
-        mainContainer.appendChild(div);
+    }
+        else {
+            let li = document.createElement("li");
+            li.innerHTML = data[i]["result"];
+            ul.appendChild(li);
+        }
+        div.appendChild(h3);
+        div.appendChild(ul);
+        header.appendChild(div);
     }
 }
 </script>    

@@ -6,58 +6,58 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-24 09:23:01 PHT*
+*as of 2022-10-24 22:04:36 PHT*
 ## Heroes
 
 **Most Picked**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 91.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png' width='50'/> Shadow Fiend : 81.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 77.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png.png' width='50'/> Marci : 91.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png.png' width='50'/> Shadow Fiend : 81.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png.png' width='50'/> Tiny : 77.0
 
 **Most banned**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 137.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png' width='50'/> Primal Beast : 124.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 120.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png.png' width='50'/> Enigma : 137.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png.png' width='50'/> Primal Beast : 124.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png.png' width='50'/> Marci : 120.0
 
 **Highest Winrate**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 85.71
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png' width='50'/> Storm Spirit : 78.57
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png' width='50'/> Earth Spirit : 71.43
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png.png' width='50'/> Gyrocopter : 85.71
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png.png' width='50'/> Storm Spirit : 78.57
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png.png' width='50'/> Earth Spirit : 71.43
 
 **Highest Average Kills**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 13.14
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png' width='50'/> Bloodseeker : 12.17
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 11.41
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png.png' width='50'/> Gyrocopter : 13.14
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png.png' width='50'/> Bloodseeker : 12.17
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png.png' width='50'/> Sniper : 11.41
 
 **Highest Average Assists**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png' width='50'/> Earth Spirit : 20.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png' width='50'/> Spirit Breaker : 18.44
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png' width='50'/> Disruptor : 17.37
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png.png' width='50'/> Earth Spirit : 20.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png.png' width='50'/> Spirit Breaker : 18.44
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png.png' width='50'/> Disruptor : 17.37
 
 **Lowest Average deaths**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png' width='50'/> Arc Warden : 2.29
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png' width='50'/> Templar Assassin : 2.5
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 2.52
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png.png' width='50'/> Arc Warden : 2.29
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png.png' width='50'/> Templar Assassin : 2.5
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png.png' width='50'/> Naga Siren : 2.52
 
 **Highest Average Last hits**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png' width='50'/> Terrorblade : 551.14
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 513.41
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 496.43
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png.png' width='50'/> Terrorblade : 551.14
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png.png' width='50'/> Naga Siren : 513.41
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png.png' width='50'/> Gyrocopter : 496.43
 
 **Highest Average XPM**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 810.71
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png' width='50'/> Pudge : 755.45
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png' width='50'/> Faceless Void : 751.9
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png.png' width='50'/> Gyrocopter : 810.71
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png.png' width='50'/> Pudge : 755.45
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png.png' width='50'/> Faceless Void : 751.9
 
 **Most Kills in a game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png' width='50'/> Bloodseeker : 25.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png' width='50'/> Shadow Fiend : 24.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/zuus.png' width='50'/> Zeus : 23.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png.png' width='50'/> Bloodseeker : 25.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png.png' width='50'/> Shadow Fiend : 24.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/zuus.png.png' width='50'/> Zeus : 23.0
 
 **Most Last Hits in a game**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png' width='50'/> Terrorblade : 1372.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 1196.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 1058.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png.png' width='50'/> Terrorblade : 1372.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png.png' width='50'/> Naga Siren : 1196.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png.png' width='50'/> Sniper : 1058.0
 ## Teams
 
 **Most Kills in a game**

@@ -1,13 +1,8 @@
 import pandas as pd, datetime
 pd.options.display.max_colwidth = 150
 
-
-
 def create_readme():
     heroes = pd.read_json('working/heroes.json')
-    heroes = heroes.rename(columns={'name':'url'})
-    heroes['url'].replace('npc_dota_hero_','https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/',regex=True,inplace=True)
-    print(heroes)
     hero_list = pd.read_json('hero_list.json')
     hero_list = hero_list.to_dict('records')
     player_list = pd.read_json('player_list.json')

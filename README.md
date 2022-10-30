@@ -6,33 +6,33 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-24 22:50:01 PHT*
+*as of 2022-10-30 13:17:43 PHT*
 ## Heroes
 
 **Most Picked**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 91.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 93.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png' width='50'/> Shadow Fiend : 81.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 77.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 79.0
 
 **Most banned**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 137.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png' width='50'/> Primal Beast : 124.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 120.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 142.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 125.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png' width='50'/> Primal Beast : 125.0
 
 **Highest Winrate**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 85.71
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png' width='50'/> Storm Spirit : 78.57
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png' width='50'/> Earth Spirit : 71.43
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png' width='50'/> Outworld Destroyer : 80.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 75.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png' width='50'/> Storm Spirit : 73.33
 
 **Highest Average Kills**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 13.14
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png' width='50'/> Bloodseeker : 12.17
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 11.41
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 11.88
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png' width='50'/> Bloodseeker : 11.54
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 11.0
 
 **Highest Average Assists**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png' width='50'/> Earth Spirit : 20.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png' width='50'/> Spirit Breaker : 18.44
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png' width='50'/> Disruptor : 17.37
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png' width='50'/> Spirit Breaker : 18.5
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png' width='50'/> Earth Spirit : 18.38
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png' width='50'/> Disruptor : 17.56
 
 **Lowest Average deaths**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png' width='50'/> Arc Warden : 2.29
@@ -40,13 +40,13 @@ Currently in progress.
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 2.52
 
 **Highest Average Last hits**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png' width='50'/> Terrorblade : 551.14
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 513.41
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 496.43
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png' width='50'/> Terrorblade : 551.95
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 522.34
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 479.38
 
 **Highest Average XPM**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 810.71
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png' width='50'/> Pudge : 755.45
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 783.12
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png' width='50'/> Pudge : 753.78
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png' width='50'/> Faceless Void : 751.9
 
 **Most Kills in a game**
@@ -67,8 +67,8 @@ Currently in progress.
 
 **Highest Average Kills**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 31.56
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png' width='50'/> Team Liquid : 29.25
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.77
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8291895.png' width='50'/> Tundra Esports : 29.12
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.62
 
 **Least Deaths in a game**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png' width='50'/> Soniqs : 3
@@ -110,18 +110,18 @@ Currently in progress.
 
 **Highest Average Kills**
  - THUNDER.Pakazs : 10.56
- - Tundra.skiter : 9.73
+ - Tundra.skiter : 9.68
  - THUNDER.DarkMago♥ : 9.08
 
 **Highest Average Assists**
- - Secret.W_Zayac : 17.23
+ - Tundra.Saksa : 17.88
  - THUNDER.Matthew : 17.12
- - Tundra.Saksa : 16.73
+ - Secret.W_Zayac : 16.88
 
 **Lowest Average Deaths**
  - Fnatic.Raven : 2.0
- - Aster.Monet : 2.08
- - Tundra.skiter : 2.27
+ - Aster.Monet : 2.22
+ - Tundra.skiter : 2.32
 
 **Highest Average Last Hits**
  - BOOM.JACKBOYS : 430.17
@@ -130,8 +130,8 @@ Currently in progress.
 
 **Highest Average XPM**
  - THUNDER.Pakazs : 693.52
+ - Tundra.skiter : 692.4
  - Hokori.Lumière : 687.05
- - PSG.LGD.萧瑟 : 676.69
 
 **Most Kills in a game**
  - Secret.Crystallis : 25.0
@@ -149,12 +149,12 @@ Currently in progress.
 **Most Last Hits in a game**
  - RNG.Ghost : 1372.0
  - Aster.Monet : 1196.0
- - BOOM.JACKBOYS : 1058.0
+ - Tundra.skiter : 1124.0
 
 **Most GPM in a game**
+ - Tundra.skiter : 1133.0
  - OG.Yuragi : 1034.0
  - Aster.Monet : 1010.0
- - GG.dyrachyo : 995.0
 
 **Most Different Heroes**
  - OG.Yuragi : 18.0
@@ -162,11 +162,14 @@ Currently in progress.
  - PSG.LGD.萧瑟 : 17.0
 ## Tournament
 
+**Matches Played**
+ - 43
+
 **Heroes Picked**
  - 114
 
 **Heroes banned**
- - 105
+ - 106
 
 **Most Total Kills in a game**
  - 99
@@ -187,4 +190,4 @@ Currently in progress.
  - 39
 
 **Most Solo GPM**
- - 1034
+ - 1133

@@ -6,17 +6,17 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-30 15:27:51 PHT*
+*as of 2022-10-30 21:05:00 PHT*
 ## Heroes
 
 **Most Picked**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 93.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 95.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 82.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png' width='50'/> Shadow Fiend : 81.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 80.0
 
 **Most banned**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 143.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 127.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 128.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png' width='50'/> Primal Beast : 125.0
 
 **Highest Winrate**
@@ -35,18 +35,18 @@ Currently in progress.
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png' width='50'/> Disruptor : 17.56
 
 **Lowest Average deaths**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png' width='50'/> Arc Warden : 2.29
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png' width='50'/> Arc Warden : 2.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png' width='50'/> Templar Assassin : 2.5
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 2.52
 
 **Highest Average Last hits**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png' width='50'/> Terrorblade : 551.95
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 522.34
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png' width='50'/> Naga Siren : 533.16
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 479.38
 
 **Highest Average XPM**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 783.12
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png' width='50'/> Pudge : 753.78
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png' width='50'/> Arc Warden : 762.38
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png' width='50'/> Faceless Void : 751.9
 
 **Most Kills in a game**
@@ -67,8 +67,8 @@ Currently in progress.
 
 **Highest Average Kills**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 31.56
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8291895.png' width='50'/> Tundra Esports : 29.12
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.43
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8291895.png' width='50'/> Tundra Esports : 29.75
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png' width='50'/> Team Liquid : 28.15
 
 **Least Deaths in a game**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png' width='50'/> Soniqs : 3
@@ -110,27 +110,27 @@ Currently in progress.
 
 **Highest Average Kills**
  - THUNDER.Pakazs : 10.56
- - Tundra.skiter : 9.68
+ - Tundra.skiter : 9.39
  - Liquid.m1CKe : 9.15
 
 **Highest Average Assists**
- - Tundra.Saksa : 17.88
+ - Tundra.Saksa : 18.14
+ - Tundra.Sneyking : 17.14
  - THUNDER.Matthew : 17.12
- - Secret.W_Zayac : 16.71
 
 **Lowest Average Deaths**
  - Fnatic.Raven : 2.0
+ - Tundra.skiter : 2.21
  - Aster.Monet : 2.22
- - Tundra.skiter : 2.32
 
 **Highest Average Last Hits**
  - BOOM.JACKBOYS : 430.17
+ - Tundra.skiter : 426.64
  - RNG.Ghost : 421.33
- - Hokori.Lumière : 419.79
 
 **Highest Average XPM**
+ - Tundra.skiter : 701.36
  - THUNDER.Pakazs : 693.52
- - Tundra.skiter : 692.4
  - Hokori.Lumière : 687.05
 
 **Most Kills in a game**
@@ -163,13 +163,13 @@ Currently in progress.
 ## Tournament
 
 **Matches Played**
- - 45
+ - 48
 
 **Heroes Picked**
  - 114
 
 **Heroes banned**
- - 106
+ - 107
 
 **Most Total Kills in a game**
  - 99

@@ -6,17 +6,17 @@ Currently in progress.
 2. Run the ti11predictions.ipynb file.
 3. Results will then be shown.
 
-*as of 2022-10-30 13:17:43 PHT*
+*as of 2022-10-30 15:27:51 PHT*
 ## Heroes
 
 **Most Picked**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 93.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png' width='50'/> Shadow Fiend : 81.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 79.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png' width='50'/> Tiny : 80.0
 
 **Most banned**
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 142.0
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 125.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png' width='50'/> Enigma : 143.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png' width='50'/> Marci : 127.0
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png' width='50'/> Primal Beast : 125.0
 
 **Highest Winrate**
@@ -27,7 +27,7 @@ Currently in progress.
 **Highest Average Kills**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png' width='50'/> Gyrocopter : 11.88
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png' width='50'/> Bloodseeker : 11.54
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 11.0
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png' width='50'/> Sniper : 10.96
 
 **Highest Average Assists**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png' width='50'/> Spirit Breaker : 18.5
@@ -68,7 +68,7 @@ Currently in progress.
 **Highest Average Kills**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png' width='50'/> Thunder Awaken : 31.56
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8291895.png' width='50'/> Tundra Esports : 29.12
- - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.62
+ - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png' width='50'/> Team Secret : 28.43
 
 **Least Deaths in a game**
  - <img src='https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png' width='50'/> Soniqs : 3
@@ -111,12 +111,12 @@ Currently in progress.
 **Highest Average Kills**
  - THUNDER.Pakazs : 10.56
  - Tundra.skiter : 9.68
- - THUNDER.DarkMago♥ : 9.08
+ - Liquid.m1CKe : 9.15
 
 **Highest Average Assists**
  - Tundra.Saksa : 17.88
  - THUNDER.Matthew : 17.12
- - Secret.W_Zayac : 16.88
+ - Secret.W_Zayac : 16.71
 
 **Lowest Average Deaths**
  - Fnatic.Raven : 2.0
@@ -163,7 +163,7 @@ Currently in progress.
 ## Tournament
 
 **Matches Played**
- - 43
+ - 45
 
 **Heroes Picked**
  - 114

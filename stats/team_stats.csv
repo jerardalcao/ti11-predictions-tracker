@@ -2,7 +2,7 @@ team_id,name,tag,url,avg_kills,avg_deaths,avg_assists,max_kills,min_deaths,max_a
 8597976,Talon,TLN,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8597976.png,22.0,29.1,51.65,46,10,98,51,2436.0
 7732977,BOOM Esports,BOOM,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7732977.png,21.782608695652176,20.91304347826087,53.43478260869565,53,4,132,48,2505.3478260869565
 7390454,Soniqs,SQ,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7390454.png,21.263157894736842,25.210526315789473,47.63157894736842,44,3,112,51,2509.0526315789475
-2163,Team Liquid,Liquid,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png,28.125,24.53125,65.53125,48,6,113,50,2466.5625
+2163,Team Liquid,Liquid,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/2163.png,28.147058823529413,24.647058823529413,65.52941176470588,48,6,113,52,2459.1176470588234
 8260983,TSM FTX,TSM FTX,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8260983.png,20.055555555555557,27.27777777777778,44.22222222222222,44,3,99,48,2314.277777777778
 15,PSG.LGD,PSG.LGD,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/15.png,22.884615384615383,23.846153846153847,53.11538461538461,40,4,96,63,2310.1153846153848
 7119388,Team Spirit,TSpirit,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7119388.png,21.210526315789473,26.210526315789473,46.526315789473685,30,3,80,47,2355.684210526316
@@ -18,4 +18,4 @@ team_id,name,tag,url,avg_kills,avg_deaths,avg_assists,max_kills,min_deaths,max_a
 8131728,Hokori,Hokori,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/8131728.png,22.42105263157895,29.263157894736842,55.0,46,9,140,46,2409.0526315789475
 6209804,Royal Never Give Up,RNG,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/6209804.png,25.27777777777778,26.444444444444443,60.111111111111114,43,6,98,49,2724.3333333333335
 7391077,Thunder Awaken,THUNDER,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/7391077.png,31.56,26.32,74.48,66,7,160,44,2341.28
-1838315,Team Secret,Secret,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png,28.615384615384617,21.346153846153847,64.8076923076923,52,3,129,42,2252.6923076923076
+1838315,Team Secret,Secret,https://cdn.cloudflare.steamstatic.com/apps/dota2/teamlogos/1838315.png,28.428571428571427,21.892857142857142,65.03571428571429,52,3,129,44,2258.9285714285716
